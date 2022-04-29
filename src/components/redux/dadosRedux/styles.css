@@ -1,0 +1,12 @@
+.container-redux{
+    width: 400px;
+    height: 420px;
+    background-color: rgb(23, 27, 36);
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+p{
+    color: aliceblue;
+}
